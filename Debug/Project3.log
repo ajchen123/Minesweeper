@@ -1,0 +1,8 @@
+﻿  Board.cpp
+  main.cpp
+  Random.cpp
+C:\Users\Angela\source\repos\ClassAssignments\Project3\Random.cpp(4,33): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  TextureManager.cpp
+  Tile.cpp
+  Generating Code...
+  Project3.vcxproj -> C:\Users\Angela\source\repos\ClassAssignments\Debug\Project3.exe
